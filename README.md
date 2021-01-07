@@ -6,5 +6,5 @@ This is end-to-end web application where users can upload the image file and get
 4. Deploy the model
 
 # Some ScreenShots of Project:
-![alt text](https://github.com/patial10/Object_detection/Capture1.PNG)
+https://github.com/patial10/Object_detection/Capture1.PNG
 ![alt text](https://github.com/patial10/Object_detection/Capture2.PNG)
